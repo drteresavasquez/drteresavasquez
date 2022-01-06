@@ -4,8 +4,6 @@
 <h1> Hello, I am Dr. T!</h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=drteresavasquez.drteresavasquez)
-
 </p>
 <div size='20px'> I am a tech leader, educator, Autism advocate, and mother of superheroes! I create applications that help promote neurodiversity and simplicity for users while leading future generations to become creators of their own destinies! 
 </div>
