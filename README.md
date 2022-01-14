@@ -5,7 +5,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> I am a tech leader, educator, Autism advocate, and mother of superheroes! I create applications that help promote neurodiversity and simplicity for users while leading future generations to become creators of their own destinies! 
+<div size='20px'> I am a tech leader, educator, neurodiversity advocate, and mother of superheroes! I create applications that help promote neurodiversity and simplicity for users while leading future generations to become creators of their own destinies! 
 </div>
 
 <h2> About Me</h2>
