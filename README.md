@@ -1,5 +1,5 @@
 <!-- ![DomFromWeb](https://user-images.githubusercontent.com/29741570/116821589-23b12280-ab40-11eb-974d-ce7c65eaca86.png) -->
-<img src="https://github.com/drteresavasquez/drteresavasquez/blob/master/collage.png" alt="Leading Future Generations" width="100%" />
+<img src="https://user-images.githubusercontent.com/29741570/153324163-d3b31be8-e301-4d78-8071-2f012313924f.png" alt="Leading Future Generations" width="100%" />
 
 <h1> Hello, I am Dr. T!</h1>
 <p align='center'>
@@ -42,3 +42,9 @@
 <a href = 'https://www.twitter.com/drteresavasquez'> <img width='20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'www.drteresavasquez.com'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/drteresavasquez'> <img width = '20px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+
+<br />
+<br />
+
+<img src="https://github.com/drteresavasquez/drteresavasquez/blob/master/collage.png" alt="Leading Future Generations" width="100%" />
+
