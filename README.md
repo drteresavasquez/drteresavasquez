@@ -6,7 +6,6 @@ Director of Engineering, Educator + Front-End Engineer
 
 * 🌍  I'm based in Nashville, TN
 * 🖥️  See my portfolio at [drteresavasquez.com](http://drteresavasquez.com)
-* ✉️  You can contact me at [drt@reppedintech.com](mailto:drt@reppedintech.com)
 * 🚀  I'm currently working on [Creating a community in Nashville for new, traditionally excluded techies](http://reppedintech.com)
 
 <a href="https://www.github.com/drteresavasquez" target="_blank" rel="noreferrer"><img
