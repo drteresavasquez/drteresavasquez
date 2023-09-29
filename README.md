@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Director of Engineering, Educator + Front-End Engineer
 --------------------------------------------
 
-* 🌍  I'm based in Nashville, TN
-* 🖥️  See my portfolio at [drteresavasquez.com](http://drteresavasquez.com)
 * 🚀  I'm currently working on [Creating a community in Nashville for new, traditionally excluded techies](http://reppedintech.com)
 
 <a href="https://www.github.com/drteresavasquez" target="_blank" rel="noreferrer"><img
