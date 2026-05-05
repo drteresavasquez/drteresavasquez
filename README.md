@@ -13,6 +13,42 @@
 
 ---
 
+## 🚀 Plug In
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://circles.reppedlabs.org">
+        <img src="https://img.shields.io/badge/Get_Resources-180e2a?style=for-the-badge&labelColor=180e2a&color=ceff05" alt="Get Resources" />
+      </a>
+      <br /><br />
+      <strong>For ND entrepreneurs<br />& 1099 technologists</strong>
+      <br /><br />
+      <sub>Tools, templates, and frameworks built for how we actually work.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://circles.reppedlabs.org/join-us/">
+        <img src="https://img.shields.io/badge/Join_the_Research-180e2a?style=for-the-badge&labelColor=180e2a&color=67fcff" alt="Join the Research" />
+      </a>
+      <br /><br />
+      <strong>Be part of the study</strong>
+      <br /><br />
+      <sub>Help shape the first research framework built for late-diagnosed ND adults in tech.</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.youtube.com/@reppedlabs">
+        <img src="https://img.shields.io/badge/Watch_&_Subscribe-180e2a?style=for-the-badge&labelColor=180e2a&color=ffcafd" alt="Watch and Subscribe" />
+      </a>
+      <br /><br />
+      <strong>YouTube + Twitch</strong>
+      <br /><br />
+      <sub><a href="https://www.youtube.com/@reppedlabs">YouTube</a> · <a href="https://www.twitch.tv/reppedlabs">Twitch</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🧠 About
 
 I'm **Dr. Teresa Vásquez (Dr. Vás)**, a Nashville-based technologist and doctoral researcher working at the intersection of **neurodiversity, technology, and workforce development**. I founded **Repped in Tech®** and **Repped Labs** to build the kind of adaptive, data-driven environments I spent two decades wishing existed.
@@ -101,20 +137,82 @@ design_system:    [Poppins, DM Sans, #ceff05, #67fcff, #f5f1ff]
 
 ## 🧪 Selected Projects
 
-**Pencil Tech (2024)** — First-place hackathon solution helping nonprofits manage teacher supply inventory and communications.
-
-**SafeSpace (2021)** — Globally recognized application supporting Black women's healing from workplace trauma.
-
-**REMLE Project (2011–2013)** — Doctoral research identifying technology-based strategies that improve empowerment, communication, and outcomes for autistic learners and their families. Now the foundation for Repped Labs.
+**[REMLE Project (2011–2013)](https://www.youtube.com/watch?v=0EFqMz0ebh8)** — Doctoral research identifying technology-based strategies that improve empowerment, communication, and outcomes for autistic learners and their families. Now the foundation for Repped Labs. *(Watch the final defense ▶)*
 
 ---
 
-## 📈 GitHub Stats
+## 🎥 Featured on YouTube
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/ilVMcVYHdLQ">
+        <img src="https://img.youtube.com/vi/ilVMcVYHdLQ/maxresdefault.jpg" width="100%" alt="Repped Labs Commercial" />
+      </a>
+      <br /><br />
+      <strong>🎬 Repped Labs Commercial</strong>
+      <br />
+      <sub>The vision, in motion.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/gsyd12chWv0">
+        <img src="https://img.youtube.com/vi/gsyd12chWv0/maxresdefault.jpg" width="100%" alt="Our Pitch" />
+      </a>
+      <br /><br />
+      <strong>🎤 The Pitch</strong>
+      <br />
+      <sub>Why Repped Labs exists.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://youtu.be/lNVuZbYJf94">
+        <img src="https://img.youtube.com/vi/lNVuZbYJf94/maxresdefault.jpg" width="100%" alt="Pencil Tech Winning Project" />
+      </a>
+      <br /><br />
+      <strong>🏆 Pencil Tech</strong>
+      <br />
+      <sub>Hack for the Community winner — nonprofit teacher supply tool.</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.youtube.com/watch?v=9lG3vg_g3ZY">
+        <img src="https://img.youtube.com/vi/9lG3vg_g3ZY/maxresdefault.jpg" width="100%" alt="SafeSpace Global Hackathon Winner" />
+      </a>
+      <br /><br />
+      <strong>🌍 SafeSpace</strong>
+      <br />
+      <sub>Global Mental Health Hackathon winner — supporting Black women through workplace trauma.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://www.youtube.com/watch?v=5TMQdSTTuV4">
+        <img src="https://img.youtube.com/vi/5TMQdSTTuV4/maxresdefault.jpg" width="50%" alt="The Sustain Game" />
+      </a>
+      <br /><br />
+      <strong>🌱 The Sustain Game</strong>
+      <br />
+      <sub>Hack for the Community winner — <a href="https://urbangreenlab.org/h4tc-award/">Urban Green Lab</a></sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
-![Dr. Vás's GitHub stats](https://github-readme-stats.vercel.app/api?username=drteresavasquez&show_icons=true&hide_border=true&bg_color=180e2a&title_color=ceff05&icon_color=67fcff&text_color=f5f1ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drteresavasquez&layout=compact&hide_border=true&bg_color=180e2a&title_color=ceff05&text_color=f5f1ff)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe_on_YouTube-180e2a?style=for-the-badge&logo=youtube&logoColor=ffcafd&labelColor=180e2a&color=ffcafd)](https://www.youtube.com/@reppedlabs)
+[![Follow on Twitch](https://img.shields.io/badge/Follow_on_Twitch-180e2a?style=for-the-badge&logo=twitch&logoColor=ceff05&labelColor=180e2a&color=ceff05)](https://www.twitch.tv/reppedlabs)
+
+</div>
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=drteresavasquez&stroke=f5f1ff&background=180e2a&ring=ceff05&fire=67fcff&currStreakNum=ffcafd&currStreakLabel=ceff05&sideNums=f5f1ff&sideLabels=f5f1ff&dates=f5f1ff&hide_border=true)](https://github.com/drteresavasquez)
+
+![Profile Views](https://komarev.com/ghpvc/?username=drteresavasquez&style=for-the-badge&color=ceff05&label=PROFILE+VIEWS)
 
 </div>
 
