@@ -2,16 +2,6 @@
 <a href="https://reppedlabs.org" target="_blank" rel="noopener">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:180e2a,40:180e2a,70:67fcff,100:ceff05&height=200&section=header&text=Dr.%20V%C3%A1s&fontColor=f5f1ff&fontSize=70&fontAlignY=36&desc=Technologist%20%E2%80%A2%20Researcher%20%E2%80%A2%20Founder&descAlignY=58&descSize=18" alt="Dr. Vás — Technologist, Researcher, Founder" width="100%" />
 </a>
-
-<div align="center">
-
-### Building adaptive, neuroinclusive technology — 
-and the environments where neurodistinct builders thrive.
-
-</div>
-
----
-
 <!-- TECH STACK -->
 <h2>🧰 The Stack</h2>
 
