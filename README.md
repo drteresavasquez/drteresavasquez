@@ -5,7 +5,8 @@
 
 <div align="center">
 
-### Building adaptive, neuroinclusive technology — and the environments where neurodistinct builders thrive.
+### Building adaptive, neuroinclusive technology — 
+and the environments where neurodistinct builders thrive.
 
 </div>
 
